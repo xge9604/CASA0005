@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-```library(spatstat)
+library(spatstat)
 library(here)
 library(sp)
 library(rgeos)
